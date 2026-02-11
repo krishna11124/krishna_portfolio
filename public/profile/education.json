@@ -1,0 +1,12 @@
+{
+    "education":[
+        {
+            "title": "Jan 2011 - Dec 2014",
+            "cardTitle": "Bachelor of Computer Applications (BCA)",
+            "cardSubtitle":"SSLD VARSHNEY INSTITUTE OF MANAGEMENT & ENGINEERING, ALIGARH",
+            "icon" : {
+                "src": "images/education/logo.jpg"
+            }
+        }
+    ]
+}

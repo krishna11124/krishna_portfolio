@@ -1,0 +1,313 @@
+{
+  "projects": [
+    {
+      "image": "images/projects/portfolio-poster.png",
+      "title": "Dev Portfolio",
+      "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+      "links": [
+        {
+          "text": "Live",
+          "href": "https://krishnasharmaportfolio.netlify.app/"
+        }
+      ],
+      "tags": ["React", "Portfolio", "JavaScript"]
+    },
+    {
+      "image": "images/projects/flapchat_poster.png",
+      "title": "Flap Chat",
+      "bodyText": "- It's a social media app like chat,voice,video call. Technology-React-Native.",
+      "links": [
+        {
+          "text": "Live",
+          "href": "https://uxdlab.us/flapchat-app/"
+        }
+      ],
+      "tags": [
+        "React-Native",
+        "JavaScript",
+        "TypeScript",
+        "ConnectyCube",
+        "JSON",
+        "Android",
+        "IOS"
+      ]
+    },
+    {
+      "image": "images/projects/live_stage_poster.png",
+      "title": "LiveStage - Your Online Stage!",
+      "bodyText": "- LiveStage is a live streaming and ticketing platform which hosts live & interactive performances from artists.",
+      "links": [
+        {
+          "text": "Live",
+          "href": "https://www.livestage.stream/"
+        }
+      ],
+      "tags": [
+        "React-Native",
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "JSON",
+        "Android",
+        "IOS"
+      ]
+    },
+    {
+      "image": "images/projects/therachat_poster.png",
+      "title": "Therachat",
+      "bodyText": "- A friendly digital companion made for therapists & their clients!.",
+      "links": [
+        {
+          "text": "Clients Android Live",
+          "href": "https://play.google.com/store/apps/details?id=com.therachat_client"
+        },
+        {
+          "text": "Therapists Android Live",
+          "href": "https://play.google.com/store/apps/details?id=com.therachat_counsellor"
+        }
+      ],
+      "tags": [
+        "React-Native",
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "JSON",
+        "Android",
+        "IOS"
+      ]
+    },
+    {
+      "image": "images/projects/mprofit_poster.png",
+      "title": "MProfit",
+      "bodyText": "- MProfit Investment Tracker — The Best Multi-Asset Portfolio Analysis App | Track & Analyze All Investments In One Place.",
+      "links": [
+        {
+          "text": "Android Live",
+          "href": "https://play.google.com/store/search?q=mprofit&c=apps"
+        }
+      ],
+      "tags": [
+        "React-Native",
+        "React",
+        "Node",
+        "JavaScript",
+        "TypeScript",
+        "JSON",
+        "Android",
+        "IOS"
+      ]
+    },
+    {
+      "image": "images/projects/mlsu_poster.png",
+      "title": "MLSU",
+      "bodyText": "- MLSU university app offers employee and student seamless access to their academic information, essential tools, and valuable resources, enhancing their university experience.",
+      "links": [
+        {
+          "text": "Employee Android Live",
+          "href": "https://play.google.com/store/apps/details?id=com.mlsu_emp"
+        },
+        {
+          "text": "Student Android Live",
+          "href": "https://play.google.com/store/apps/details?id=com.mlsu_student&hl=en"
+        },
+        {
+          "text": "Employee IOS Live",
+          "href": "https://apps.apple.com/us/app/mlsu-employee/id6749434041"
+        },
+        {
+          "text": "Student IOS Live",
+          "href": "https://apps.apple.com/us/app/mlsu-student/id6755326928"
+        }
+      ],
+      "tags": [
+        "React-Native",
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "JSON",
+        "Android",
+        "IOS"
+      ]
+    },
+    {
+      "image": "images/projects/rtu_poster.png",
+      "title": "RTU",
+      "bodyText": "- RTU university app offers employee and student seamless access to their academic information, essential tools, and valuable resources, enhancing their university experience.",
+      "links": [
+        {
+          "text": "Employee Android Live",
+          "href": "https://play.google.com/store/apps/details?id=com.rtuemployee&hl=en_IN"
+        },
+        {
+          "text": "Student Android Live",
+          "href": "https://play.google.com/store/apps/details?id=com.rtu_student&hl=en_IN"
+        },
+        {
+          "text": "Employee IOS Live",
+          "href": "https://apps.apple.com/us/app/rtu-employee/id6739345194"
+        },
+        {
+          "text": "Student IOS Live",
+          "href": "https://apps.apple.com/us/app/rtu-student/id6744920802"
+        }
+      ],
+      "tags": [
+        "React-Native",
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "JSON",
+        "Android",
+        "IOS"
+      ]
+    },
+    {
+      "image": "images/projects/filipinaluve_poster.png",
+      "title": "FilipinaLuv",
+      "bodyText": "- FilipinaLuv is the only dating site that allows international foreigners to send gifts to Filipinas and the Filipino LGBTQ++ community in the Philippines.",
+      "links": [
+        {
+          "text": "Web Live",
+          "href": "https://www.filipinaluv.com/"
+        }
+      ],
+      "tags": ["React", "JavaScript", "JSON"]
+    },
+    {
+      "image": "images/projects/adblue4you_poster.png",
+      "title": "AdBlue4You",
+      "bodyText": "- AdBlue® and you! Find information about your vehicle and its consumption in just a few clicks! Together we can make the environment cleaner!.",
+      "links": [
+        {
+          "text": "Android Live",
+          "href": "https://play.google.com/store/apps/details?id=com.adblue4you"
+        }
+      ],
+      "tags": ["React-Native", "JavaScript", "JSON"]
+    },
+    {
+      "image": "images/projects/corekit_poster.png",
+      "title": "Corekit",
+      "bodyText": "- Tired of home repair hassles? Download Corekit – India’s go-to app for trusted home services!.",
+      "links": [
+        {
+          "text": "Android Live",
+          "href": "https://play.google.com/store/search?q=corekit&c=apps&hl=en"
+        },
+        {
+          "text": "Web Live",
+          "href": "https://corekit.in/"
+        }
+      ],
+      "tags": ["React-Native", "JavaScript", "JSON"]
+    },
+    {
+      "image": "images/projects/luvas.png",
+      "title": "Luvas",
+      "bodyText": "- Luvas university app offers employee and student seamless access to their academic information, essential tools, and valuable resources, enhancing their university experience.",
+      "links": [
+        {
+          "text": "Employee Android Live",
+          "href": "https://play.google.com/store/apps/details?id=com.luvas_emp"
+        },
+        {
+          "text": "Student Android Live",
+          "href": "https://play.google.com/store/apps/details?id=com.luvas_student"
+        },
+        {
+          "text": "Employee IOS Live",
+          "href": "https://apps.apple.com/us/app/luvas/id6744159154"
+        },
+        {
+          "text": "Student IOS Live",
+          "href": "https://apps.apple.com/us/app/luvas-student/id6748345322"
+        }
+      ],
+      "tags": [
+        "React-Native",
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "JSON",
+        "Android",
+        "IOS"
+      ]
+    },
+    {
+      "image": "images/projects/genpedien.jpg",
+      "title": "Genpedien",
+      "bodyText": "- Genpedien is an advanced, on-premise AI assistant designed to help organisations transform the way they learn, operate, communicate, and manage information.",
+      "links": [
+        {
+          "text": "Web Live",
+          "href": "http://111.118.189.124/"
+        }
+      ],
+      "tags": [
+        "React",
+        "TypeScript",
+        "JSON",
+        "Tailwind",
+        "Chakra UI",
+        "Zustand"
+      ]
+    },
+    {
+      "image": "images/projects/tax_india.png",
+      "title": "Tax India",
+      "bodyText": "- Generate professional, legally sound replies to GST notices in minutes. Powered by advanced AI and curated legal precedents.",
+      "links": [
+        {
+          "text": "Web Live",
+          "href": "https://alpha.taxindia.ai/"
+        }
+      ],
+      "tags": [
+        "React",
+        "TypeScript",
+        "JSON",
+        "Tailwind",
+        "Chakra UI",
+        "Zustand"
+      ]
+    },
+      {
+      "image": "images/projects/ai_tutor.png",
+      "title": "AI Tutor",
+      "bodyText": "- Get instant help with your studies. Ask questions, solve problems, and learn at your own pace.",
+      "links": [
+        {
+          "text": "Web Live",
+          "href": "https://aitu.expediensolutions.in/"
+        }
+      ],
+      "tags": [
+        "React",
+        "TypeScript",
+        "JSON",
+        "Tailwind",
+        "Chakra UI",
+        "Zustand"
+      ]
+    },
+      {
+      "image": "images/projects/insight.png",
+      "title": "Insight Edge",
+      "bodyText": "- Analytics of data with excel sheet and csv and connect database and ask anything.",
+      "links": [
+        {
+          "text": "Web Live",
+          "href": "https://insightedge.expediensolutions.in/"
+        }
+      ],
+      "tags": [
+        "React",
+        "TypeScript",
+        "JSON",
+        "Tailwind",
+        "Chakra UI",
+        "Zustand"
+      ]
+    }
+  ]
+}

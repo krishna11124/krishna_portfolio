@@ -1,0 +1,34 @@
+{
+    "experiences": [
+        {
+            "title": "Consultant Software Developer",
+            "subtitle": "Expedien eSolutions",
+            "workType": "Full-Time",
+            "workDescription": [
+                "Proficient in both Android and React Native frameworks, demonstrating a deep understanding of their architectures and created various Mobile Apps like Universities, tracking attendance system.",
+                "Worked with National Test Agency application."
+            ],
+            "dateText": "01/2024 – Present"
+        },
+        {
+            "title": "Software Developer - L2",
+            "subtitle": "Valuecoders Service LLP.",
+            "workType": "Full-Time",
+            "workDescription": [
+                "Working as a L1 employee with the organization. Achieve dedicated projects with the company and communicate with the client directly on project basis.",
+                "Completing the CR points from various clients & provide weekly updates to increase the engagement and long term of the project."
+            ],
+            "dateText": "06/2021 – 12/2023"
+        },
+        {
+            "title": "Android Developer",
+            "subtitle": "Uxdlab Software Pvt ltd.",
+            "workType": "Full-Time",
+            "workDescription": [
+                "Proficient in both Android and React Native frameworks, demonstrating a deep understanding of their architectures and created various Mobile Apps like Chat,Social,E-commerce.",
+                "Adept at identifying and resolving complex technical challenges, ensuring smooth and efficient application development."
+            ],
+            "dateText": "04/2019 – 06/2021"
+        }
+    ]
+}
